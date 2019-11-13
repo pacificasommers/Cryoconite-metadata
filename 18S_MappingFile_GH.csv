@@ -1,0 +1,219 @@
+#SampleID,BarcodeSequence,LinkerPrimerSequence,Description
+START,GTGGTATGGGAG,,Experimental hole starting material
+DEC6,CACCGAAATCTG,,Experimental hole December sample
+DEC1,CACGACTTGACA,,Experimental hole December sample
+DEC2,CGACACGGAGAA,,Experimental hole December sample
+DEC3,TACAGTTACGCG,,Experimental hole December sample
+DEC4,CGGCCTAAGTTC,,Experimental hole December sample
+DEC5,CATACACGCACC,,Experimental hole December sample
+JAN8,TGGCCGTTACTG,,Experimental hole January sample
+JAN1,TAGCAGTTGCGT,,Experimental hole January sample
+JAN2,CAAACCTATGGC,,Experimental hole January sample
+JAN5,AGAGTGCTAATC,,Experimental hole January sample
+JAN6,GGCCTATAAGTC,,Experimental hole January sample
+JAN3,CGCCGGTAATCT,,Experimental hole January sample
+JAN4,TAATGGTCGTAG,,Experimental hole January sample
+JAN7,CACGCTATTGGA,,Experimental hole January sample
+BLANK1cryo,TGACGTAGAACT,,Extraction blank
+BLANK2cryo,CTTGGAGGCTTA,,Extraction blank
+blankice,GACTGACTCGTC,,Extraction blank
+BLKjan,ATCGCTTAAGGC,,Extraction blank
+caa001cryo,ACTCTAGCCGGT,,Natural cryoconite hole sediment
+caa001ice,CTACTTACATCC,,Natural cryoconite hole water column
+caa002cryo,ATTAAGCCTGGA,,Natural cryoconite hole sediment
+caa002ice,CGAAACTACGTA,,Natural cryoconite hole water column
+caa003cryo,GCGTTGCAAACT,,Natural cryoconite hole sediment
+caa003ice,TATGAACGTCCG,,Natural cryoconite hole water column
+caa004cryo,GATCCTCATGCG,,Natural cryoconite hole sediment
+caa004ice,GCTAGTTATGGA,,Natural cryoconite hole water column
+caa005cryo,CGGATAACCTCC,,Natural cryoconite hole sediment
+caa005ice,CATGTGCTTAGG,,Natural cryoconite hole water column
+caa006cryo,ATTTAGGACGAC,,Natural cryoconite hole sediment
+caa006ice,GCTATCAAGACA,,Natural cryoconite hole water column
+caa007cryo,GGTTCCATTAGG,,Natural cryoconite hole sediment
+caa007ice,AAGACGTAGCGG,,Natural cryoconite hole water column
+caa008cryo,GCAGATTTCCAG,,Natural cryoconite hole sediment
+caa009aice,TCGTGGATAGCT,,Natural cryoconite hole water column
+caa009bice,CTCTTCTGATCA,,Natural cryoconite hole water column
+caa009cryo,CGATAGGCCTTA,,Natural cryoconite hole sediment
+caa010cryo,TGGCTTTCTATC,,Natural cryoconite hole sediment
+caa010ice,GAGGACCAGCAA,,Natural cryoconite hole water column
+caa011cryo,AACCGCATAAGT,,Natural cryoconite hole sediment
+caa011ice,TCAGTCAGATGA,,Natural cryoconite hole water column
+caa012cryo,ATTATCGTCCCT,,Natural cryoconite hole sediment
+caa012ice,CAGATTAACCAG,,Natural cryoconite hole water column
+caa013cryo,AGGGTGACTTTA,,Natural cryoconite hole sediment
+caa013ice,GTTCCTCCATTA,,Natural cryoconite hole water column
+caa014cryo,GGATAGCCAAGG,,Natural cryoconite hole sediment
+caa014ice,CCGTGACAACTC,,Natural cryoconite hole water column
+caa015cryo,GTGTTCCCAGAA,,Natural cryoconite hole sediment
+caa015ice,TTACCTTACACC,,Natural cryoconite hole water column
+caa016cryo,AGATGATCAGTC,,Natural cryoconite hole sediment
+caa016ice,GACGCACTAACT,,Natural cryoconite hole water column
+caa017cryo,AATGACCTCGTG,,Natural cryoconite hole sediment
+caa017ice,ATGCTAACCACG,,Natural cryoconite hole water column
+caa018cryo,ACAGCTCAAACA,,Natural cryoconite hole sediment
+caa018ice,AATAGCATGTCG,,Natural cryoconite hole water column
+caa019cryo,ACCTTACACCTT,,Natural cryoconite hole sediment
+caa019ice,AAGTCACACACA,,Natural cryoconite hole water column
+caa020cryo,CCAGACCGCTAT,,Natural cryoconite hole sediment
+caa020ice,GGCTGCATACTC,,Natural cryoconite hole water column
+caa021cryo,GACTTCATGCGA,,Natural cryoconite hole sediment
+caa021ice,ACCTGTCCTTTC,,Natural cryoconite hole water column
+caa022cryo,TGGTTGGTTACG,,Natural cryoconite hole sediment
+caa022ice,CGTTCCTTGTTA,,Natural cryoconite hole water column
+caa023cryo,CCGAGGTATAAT,,Natural cryoconite hole sediment
+caa023ice,TGACTAATGGCC,,Natural cryoconite hole water column
+caa024cryo,GAGACGTGTTCT,,Natural cryoconite hole sediment
+caa024ice,GGCGATTTACGT,,Natural cryoconite hole water column
+caa025cryo,CTTAGGCATGTG,,Natural cryoconite hole sediment
+caa025ice,ACCAATCTCGGC,,Natural cryoconite hole water column
+caa026cryo,GAGCGTATCCAT,,Natural cryoconite hole sediment
+caa026ice,CGGAGTAATCCT,,Natural cryoconite hole water column
+caa027cryo,GTAGGTGCTTAC,,Natural cryoconite hole sediment
+caa027ice,GCTGTGATTCGA,,Natural cryoconite hole water column
+caa028cryo,AGCTCTAGAAAC,,Natural cryoconite hole sediment
+caa028ice,TTGGTAAAGTGC,,Natural cryoconite hole water column
+caa029cryo,GCCTGTCTGCAA,,Natural cryoconite hole sediment
+caa029ice,GTTCACGCCCAA,,Natural cryoconite hole water column
+caa030cryo,GTCGTCCAAATG,,Natural cryoconite hole sediment
+caa030ice,GGAATTATCGGT,,Natural cryoconite hole water column
+coh001cryo,AGCGTAATTAGC,,Natural cryoconite hole sediment
+coh001ice,CTCTCTCACTTG,,Natural cryoconite hole water column
+coh002cryo,TATCACCGGCAC,,Natural cryoconite hole sediment
+coh002ice,TAAGGCATCGCT,,Natural cryoconite hole water column
+coh003cryo,CCAGATATAGCA,,Natural cryoconite hole sediment
+coh003ice,TATCCAAGCGCA,,Natural cryoconite hole water column
+coh004cryo,GATCTCTGGGTA,,Natural cryoconite hole sediment
+coh004ice,CTGTGTCCATGG,,Natural cryoconite hole water column
+coh005aice,CTAGCTATGGAC,,Natural cryoconite hole water column
+coh005bice,AACCGATGTACC,,Natural cryoconite hole water column
+coh005cryo,CGCATTTGGATG,,Natural cryoconite hole sediment
+coh006cryo,TCCATCGACGTG,,Natural cryoconite hole sediment
+coh007cryo,ACTGATGGCCTC,,Natural cryoconite hole sediment
+coh007ice,CGATCGAACACT,,Natural cryoconite hole water column
+coh008cryo,CAACGTGCTCCA,,Natural cryoconite hole sediment
+coh008ice,CATCAAGCATAG,,Natural cryoconite hole water column
+coh009cryo,CTCGTGAATGAC,,Natural cryoconite hole sediment
+coh009ice,ATTGCAAGCAAC,,Natural cryoconite hole water column
+coh010cryo,TATGCCAGAGAT,,Natural cryoconite hole sediment
+coh010ice,ACCCATACAGCC,,Natural cryoconite hole water column
+coh011cryo,GAGAGTCCACTT,,Natural cryoconite hole sediment
+coh011ice,GTACTGAAGATC,,Natural cryoconite hole water column
+coh012cryo,CATCATACGGGT,,Natural cryoconite hole sediment
+coh012ice,CTTCGCGGATGT,,Natural cryoconite hole water column
+coh013cryo,ATAACATGTGCG,,Natural cryoconite hole sediment
+coh013ice,CTTGACGAGGTT,,Natural cryoconite hole water column
+coh014cryo,CGATGTGTGGTT,,Natural cryoconite hole sediment
+coh014ice,TCGATTGGCCGT,,Natural cryoconite hole water column
+coh015cryo,TTCGATGCCGCA,,Natural cryoconite hole sediment
+coh015ice,GAGTACAGTCTA,,Natural cryoconite hole water column
+coh016cryo,TACACAAGTCGC,,Natural cryoconite hole sediment
+coh016ice,CATCGCGTTGAC,,Natural cryoconite hole water column
+coh017cryo,AGGTGAGTTCTA,,Natural cryoconite hole sediment
+coh017ice,CACGTGACATGT,,Natural cryoconite hole water column
+coh018cryo,AGGTCCAAATCA,,Natural cryoconite hole sediment
+coh018ice,CGCACTACGCAT,,Natural cryoconite hole water column
+coh019aice,AACTGCGATATG,,Natural cryoconite hole water column
+coh019bice,CTCTGCCTAATT,,Natural cryoconite hole water column
+coh019cryo,GAACGGGACGTA,,Natural cryoconite hole sediment
+coh020cryo,TACGGATTATGG,,Natural cryoconite hole sediment
+coh020ice,ATAGGCTGTAGT,,Natural cryoconite hole water column
+coh021cryo,CTTGAGAAATCG,,Natural cryoconite hole sediment
+coh021ice,ACCTGGGAATAT,,Natural cryoconite hole water column
+coh022cryo,GCGAAGTTGGGA,,Natural cryoconite hole sediment
+coh022ice,GCATTACTGGAC,,Natural cryoconite hole water column
+coh023cryo,AACTTTCAGGAG,,Natural cryoconite hole sediment
+coh023ice,CCTACATGAGAC,,Natural cryoconite hole water column
+coh024cryo,GCGTCCATGAAT,,Natural cryoconite hole sediment
+coh024ice,GCACATAGTCGT,,Natural cryoconite hole water column
+coh025cryo,CCTGTCCTATCT,,Natural cryoconite hole sediment
+coh025ice,CACAGTTGAAGT,,Natural cryoconite hole water column
+coh026cryo,ACCGTGCTCACA,,Natural cryoconite hole sediment
+coh026ice,CAGTCGTTAAGA,,Natural cryoconite hole water column
+coh027cryo,ACGTGTAGGCTT,,Natural cryoconite hole sediment
+coh027ice,CTTCCAACTCAT,,Natural cryoconite hole water column
+coh028cryo,ATAGCGAACTCA,,Natural cryoconite hole sediment
+coh028ice,TGTGTAGCCATG,,Natural cryoconite hole water column
+coh029cryo,CTACACAGCACA,,Natural cryoconite hole sediment
+coh030cryo,GCATTCGGCGTT,,Natural cryoconite hole sediment
+coh030ice,TTGGGCCACATA,,Natural cryoconite hole water column
+NCT1a,GGACTTCCAGCT,,PCR negative control
+NTC1b,GCCTAGCCCAAT,,PCR negative control
+NTC2a,GGTTCGGTCCAT,,PCR negative control
+NTC2b,ATTCTCTCACGT,,PCR negative control
+NTC3a,GATCATTCTCTC,,PCR negative control
+NTC3b,TAAAGACCCGTA,,PCR negative control
+NTC4a,TTACCGACGAGT,,PCR negative control
+NTC4b,TGAGGACTACCT,,PCR negative control
+NTC5a,CCATCACATAGG,,PCR negative control
+NTC5b,GGCTAAACTATG,,PCR negative control
+NTC6,CATAGCTCGGTC,,PCR negative control
+NTC6a,CAACGCTAGAAT,,PCR negative control
+NTC6b,CATAAGGGAGGC,,PCR negative control
+NTC6c,AAGAGTCTCTAG,,PCR negative control
+NTC6d,AGCAGCTATTGC,,PCR negative control
+NTC6e,AGATGTCCGTCA,,PCR negative control
+NTC6f,CGAGTTCATCGA,,PCR negative control
+NTC6g,ATCTTGGAGTCG,,PCR negative control
+NTC6h,AACCATGCCAAC,,PCR negative control
+tar001cryo,TGCACGTGATAA,,Natural cryoconite hole sediment
+tar001ice,TCCGTGGTATAG,,Natural cryoconite hole water column
+tar002cryo,GTAATGCGTAAC,,Natural cryoconite hole sediment
+tar002ice,GGCAAATACACT,,Natural cryoconite hole water column
+tar003cryo,GGTTTAACACGC,,Natural cryoconite hole sediment
+tar003ice,CTAGGATCACTG,,Natural cryoconite hole water column
+tar004cryo,CTCCCTTTGTGT,,Natural cryoconite hole sediment
+tar004ice,CTACGAAAGCCT,,Natural cryoconite hole water column
+tar005cryo,GGTCTCCTACAG,,Natural cryoconite hole sediment
+tar005ice,GAGATCGCCTAT,,Natural cryoconite hole water column
+tar006cryo,AACCAAACTCGA,,Natural cryoconite hole sediment
+tar006ice,AAGGGCGCTGAA,,Natural cryoconite hole water column
+tar007cryo,GAAATGCTACGT,,Natural cryoconite hole sediment
+tar007ice,ATATGACCCAGC,,Natural cryoconite hole water column
+tar008cryo,CGCCATTGTGCA,,Natural cryoconite hole sediment
+tar008ice,CACACAAAGTCA,,Natural cryoconite hole water column
+tar009cryo,AAGACAGCTATC,,Natural cryoconite hole sediment
+tar009ice,TCTACGGCACGT,,Natural cryoconite hole water column
+tar010cryo,GGAATCCGATTA,,Natural cryoconite hole sediment
+tar010ice,GTCATGCTCCAG,,Natural cryoconite hole water column
+tar011cryo,AGACAGTAGGAG,,Natural cryoconite hole sediment
+tar011ice,GATGACCCAAAT,,Natural cryoconite hole water column
+tar012cryo,AGCTGCACCTAA,,Natural cryoconite hole sediment
+tar012ice,ATAATTGCCGAG,,Natural cryoconite hole water column
+tar013cryo,ACTGACTTAAGG,,Natural cryoconite hole sediment
+tar013ice,TGTACATCGCCG,,Natural cryoconite hole water column
+tar014cryo,GCCGTCTCGTAA,,Natural cryoconite hole sediment
+tar014ice,GTTTCCGTGGTG,,Natural cryoconite hole water column
+tar015cryo,TCTGAGGTTGCC,,Natural cryoconite hole sediment
+tar015ice,CTCTATTCCACC,,Natural cryoconite hole water column
+tar016cryo,TCCAACTGCAGA,,Natural cryoconite hole sediment
+tar017cryo,ATTGACCGGTCA,,Natural cryoconite hole sediment
+tar017ice,ATGCTGCAACAC,,Natural cryoconite hole water column
+tar018cryo,CACCCGATGGTT,,Natural cryoconite hole sediment
+tar018ice,CCTAGTAAGCTG,,Natural cryoconite hole water column
+tar019aice,ACCGGAGTAGGA,,Natural cryoconite hole water column
+tar019bice,GCCAAGGATAGG,,Natural cryoconite hole water column
+tar019cryo,GCCACGACTTAC,,Natural cryoconite hole sediment
+tar020cryo,CCTTGACCGATG,,Natural cryoconite hole sediment
+tar020ice,GGCATGTTATCG,,Natural cryoconite hole water column
+tar021cryo,GATGCTGCCGTT,,Natural cryoconite hole sediment
+tar021ice,TGTTAAGCAGCA,,Natural cryoconite hole water column
+tar022cryo,CTGGGTATCTCG,,Natural cryoconite hole sediment
+tar022ice,AGGAACCAGACG,,Natural cryoconite hole water column
+tar023cryo,TGTATCTTCACC,,Natural cryoconite hole sediment
+tar023ice,ATTGAGTGAGTC,,Natural cryoconite hole water column
+tar024cryo,AGGCACAGTAGG,,Natural cryoconite hole sediment
+tar024ice,CGCCACGTGTAT,,Natural cryoconite hole water column
+tar025cryo,CAAAGCGGTATT,,Natural cryoconite hole sediment
+tar025ice,TTCTCATGGAGG,,Natural cryoconite hole water column
+tar026cryo,TAATGCCCAGGT,,Natural cryoconite hole sediment
+tar026ice,AACAAACTGCCA,,Natural cryoconite hole water column
+tar027cryo,TTATGGTACGGA,,Natural cryoconite hole sediment
+tar027ice,CGTGCACAATTG,,Natural cryoconite hole water column
+tar028cryo,GCAACCGATTGT,,Natural cryoconite hole sediment
+tar028ice,TAGCGCGAACTT,,Natural cryoconite hole water column
+tar029cryo,CATAGTGATTGG,,Natural cryoconite hole sediment
+tar029ice,CTCATCATGTTC,,Natural cryoconite hole water column
+tar030cryo,GCTTAGATGTAG,,Natural cryoconite hole sediment
+tar030ice,TCAGGTTGCCCA,,Natural cryoconite hole water column

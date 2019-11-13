@@ -17,7 +17,7 @@ Darcy, J.L., E.M.S. Gendron, P. Sommers, D.L. Porazinska, & S.K. Schmidt. 2018. 
 # Data and metadata availability
 DNA sequences for 16S and 18S small subunit of the ribosomal RNA gene are available from the Sequence Read Archive under NCBI SRA database under project PRJNA480849 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA480849/). Meta-genome enomes of Antarctic viruses are in GenBank under accession numbers MN311489-MN311492 and MN328267-MN328291.
 
-Mapping files and processed OTU tables (97% similarity, unrarefied) from the QIIME pipeline as described in Sommers et al. 2019b-c and are available in this repo, designated for natural holes or experimental holes.
+Mapping files and processed OTU tables (97% similarity, unrarefied) from the QIIME pipeline as described in Sommers et al. 2019b-c and are available in this repo, designated for natural holes or experimental holes in the mapping files.
 
 Metadata for the 90 samples of natural cryoconite holes are in the document "Sommers_naturalcryoconite_sediment_90_samples.csv" and metadata for the 15 experimental cryoconite holes are in "Sommers_experimentalcryoconite_sediment_15_samples.csv". Many fewer measurements are available for the experimental hole samples due to their smaller size.
 
